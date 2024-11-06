@@ -48,6 +48,4 @@ This project sets up a CI/CD pipeline using Jenkins, Docker, and Kubernetes to s
 ### Conclusion
 This CI/CD pipeline enhances development efficiency by automating build, test, and deployment stages. Integrating GitHub, Jenkins, SonarQube, Docker, Argo CD, and Kubernetes facilitates faster and more reliable software delivery.
 
----
 
-Feel free to modify or expand on this README to include specific configurations or additional notes related to the project.
